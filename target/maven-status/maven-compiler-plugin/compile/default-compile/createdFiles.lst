@@ -1,0 +1,10 @@
+br\com\conexaoacademica\conexaoacademicaweb\controller\InstituicaoController.class
+br\com\conexaoacademica\conexaoacademicaweb\repository\InstituicaoRepository.class
+br\com\conexaoacademica\conexaoacademicaweb\repository\UsuarioRepository.class
+br\com\conexaoacademica\conexaoacademicaweb\service\UsuarioService.class
+br\com\conexaoacademica\conexaoacademicaweb\controller\PaginasController.class
+br\com\conexaoacademica\conexaoacademicaweb\controller\UsuarioController.class
+br\com\conexaoacademica\conexaoacademicaweb\model\Instituicao.class
+br\com\conexaoacademica\conexaoacademicaweb\model\Usuario.class
+br\com\conexaoacademica\conexaoacademicaweb\Fake.class
+br\com\conexaoacademica\conexaoacademicaweb\service\InstituicaoService.class
