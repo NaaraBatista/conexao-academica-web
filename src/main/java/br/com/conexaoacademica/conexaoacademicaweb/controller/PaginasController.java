@@ -45,7 +45,7 @@ public class PaginasController {
     public String avaliarCurso() {
         return "avaliarCurso";
     }
-
+// Comentário para organização do código
     // ROTA CORRIGIDA — AGORA NÃO CONFLITA COM O CONTROLLER REST
     @GetMapping("/lista-instituicoes")
     public String instituicoes() {
